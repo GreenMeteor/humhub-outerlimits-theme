@@ -3,7 +3,6 @@
 use \yii\helpers\Url;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
-
 use humhub\modules\user\widgets\AuthChoice;
 
 $this->pageTitle = Yii::t('UserModule.views_auth_login', 'Login');
